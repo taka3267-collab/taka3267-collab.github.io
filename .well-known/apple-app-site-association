@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["B7ZBVG6DSN.com.taka.DotLuma"],
+        "components": [
+          { "/": "/tkApps/dotluma/open/*" }
+        ]
+      }
+    ]
+  }
+}
